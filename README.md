@@ -1,4 +1,4 @@
-This is a vanilla Flask app.
+
 
 ### Instructions
 
@@ -21,15 +21,8 @@ $ source env/bin/activate
 (env) $ python route.py
 ```
 
-#### Running the tests
+### The api gives the ongoing and the upcoming contests in many websites.
 
-```bash
-(env) $ python tests.py
-```
-
-Don't forget the deactivate the virtualenv once you're done!
-```bash
-(env) $ deactivate
-```
-
+To fetch the results go to --- [https://currentcontests.herokuapp.com/](https://currentcontests.herokuapp.com/)
+ 
 
